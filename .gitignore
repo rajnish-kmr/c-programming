@@ -1,1 +1,11 @@
+# Windows executables
 *.exe
+
+# C/C++ object files
+*.o
+
+# GCC output files
+*.out
+
+# Compiled executables
+**/bin/
