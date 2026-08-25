@@ -9,3 +9,8 @@
 
 # Compiled executables
 **/bin/
+
+# Linux mint xfce Compiled Executables 
+*
+!*.*
+!**/
