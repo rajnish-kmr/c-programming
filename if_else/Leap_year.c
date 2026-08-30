@@ -3,7 +3,7 @@ int main() {
     int n;
     printf ("Enter A Year :");
     scanf("%d",&n);
-    if(n%4==0 ,n%400==0 ){
+    if(n%4==0 || n%400==0 ){
         printf("The Year you Entered is a Leap Year");
     }
     else{
