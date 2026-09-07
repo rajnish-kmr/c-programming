@@ -3,13 +3,13 @@ int main(){
 
     float principal , rate , time , si ; 
 
-    printf("Enter principal");
+    printf("Enter principal Value : ");
     scanf("%f",&principal);
 
-    printf("enter rate");
+    printf("enter Rate : ");
     scanf("%f",&rate);
 
-    printf(" enter time ");
+    printf(" enter time : ");
     scanf("%f",&time);
 
     si = (principal*rate*time)/100;
